@@ -1,0 +1,125 @@
+.container {
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+    background: white;
+    overflow: hidden;
+}
+.main-img {
+    width: 455px;
+    height: 266px;
+    left: 937px;
+    top: 207px;
+    position: absolute;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+.welcome-bg {
+    width: 810px;
+    height: 250px;
+    left: 60px;
+    top: 223px;
+    position: absolute;
+    background: radial-gradient(ellipse 50% 50% at 50% 50%, #6FB3F6 0%, #903BD6 100%);
+    border-radius: 27px;
+}
+.welcome-text {
+    width: 731px;
+    left: 100px;
+    top: 238px;
+    position: absolute;
+    color: #020202;
+    font-size: 16px;
+    font-family: 'Kode Mono', monospace;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+.prep-bg {
+    width: 865px;
+    height: 305px;
+    left: 513px;
+    top: 677px;
+    position: absolute;
+    background: radial-gradient(ellipse 50% 50% at 50% 50%, #6FB3F6 0%, #903BD6 100%);
+    border-radius: 30px;
+}
+.prep-text {
+    width: 836px;
+    left: 528px;
+    top: 690px;
+    position: absolute;
+    color: black;
+    font-size: 16px;
+    font-family: 'Kode Mono', monospace;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+.side-img {
+    width: 398px;
+    height: 238px;
+    left: 41px;
+    top: 711px;
+    position: absolute;
+    border-radius: 30px;
+    border: 1px rgba(0, 0, 0, 0.20) solid;
+}
+.protocol-bg {
+    width: 755px;
+    height: 97px;
+    left: 342px;
+    top: 538px;
+    position: absolute;
+    background: radial-gradient(ellipse 50% 50% at 50% 50%, #6FB3F6 0%, #903BD6 100%);
+    border-radius: 30px;
+}
+.protocol-title {
+    width: 262px;
+    height: 39px;
+    left: 633px;
+    top: 567px;
+    position: absolute;
+    color: black;
+    font-size: 32px;
+    font-family: 'Kode Mono', monospace;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+.header-bg {
+    width: 1440px;
+    height: 155px;
+    left: 0px;
+    top: -3px;
+    position: absolute;
+    background: radial-gradient(ellipse 50% 50% at 50% 50%, #6FB3F6 0%, #903BD6 100%);
+}
+.logo-img {
+    width: 119px;
+    height: 119px;
+    left: 60px;
+    top: 18px;
+    position: absolute;
+}
+.btn-bg {
+    width: 124px;
+    height: 30px;
+    position: absolute;
+    background: linear-gradient(90deg, #02FFF2 0%, #C3FFFC 100%);
+}
+.btn-bg.html { left: 264px; top: 84px; background: linear-gradient(90deg, #02FFF2 0%, #B3FFFB 100%);}
+.btn-bg.css { left: 490px; top: 84px;}
+.btn-bg.js { left: 715px; top: 79px;}
+.btn-bg.mysql { left: 1166px; top: 84px;}
+.btn-bg.php { left: 941px; top: 84px;}
+.btn-text {
+    position: absolute;
+    color: black;
+    font-size: 16px;
+    font-family: 'Kode Mono', monospace;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+.btn-text.html { left: 305px; top: 89px;}
+.btn-text.css { left: 537px; top: 89px;}
+.btn-text.js { left: 733px; top: 84px;}
+.btn-text.mysql { left: 1207px; top: 89px;}
+.btn-text.php { left: 988px; top: 89px;}
