@@ -8,7 +8,7 @@
 
 
 .container {
-    width: 1440px;
+    width: 100vw;
     height: 1024px;
     position: relative;
     background: white;
@@ -94,7 +94,7 @@
     word-wrap: break-word;
 }
 .header-bg {
-    width: 1440px;
+    width: 100vw;
     height: 155px;
     left: 0px;
     top: -3px;
